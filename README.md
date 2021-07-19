@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ItsAlexIK
+- 👀 I’m interested in games like SCP:SL Minecraft and Roblox
+- 🌱 I’m currently learning C#
+- 📫 How to reach me ! ItsAlexIK____#1005
