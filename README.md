@@ -13,6 +13,16 @@
 
 + 🎓 I'm an IT student passionate about development!
 + 🌱 Exploring new tech!
++ 🔗 Connect with me:
+  <p align="left">
+    <a href="https://discord.com/users/551023598203043840">
+      <img src="https://img.shields.io/badge/Discord-itsa1ex-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+    </a>
+    <br>
+    <a href="https://github.com/ItsAlexIK">
+      <img src="https://img.shields.io/badge/GitHub-ItsAlexIK-181717?style=flat-square&logo=github&logoColor=white"/>
+    </a>
+</p>
 
 ---
 
@@ -58,25 +68,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsAlexIK&theme=tokyonight&hide_border=true&border_radius=10" width="90%" />
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsAlexIK&theme=tokyonight" />
-</p>
-
----
-
-## 💬 Let’s Connect!
-
-<p align="center">
-  <a href="https://discord.com/users/551023598203043840">
-    <img src="https://img.shields.io/badge/Discord-itsa1ex-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ItsAlexIK">
-    <img src="https://img.shields.io/badge/GitHub-ItsAlexIK-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23fff&aColor=%23f9826c&codeColor=%23f9826c" alt="Joke" />
 </p>
 
 ---
