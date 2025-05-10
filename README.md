@@ -1,4 +1,3 @@
-<!-- Typing title -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FFD9&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Alex+%F0%9F%91%8B;Creative+Student+Developer!;Fullstack+Enthusiast+%E2%9C%A8;Always+Learning+Something+New!" alt="Typing SVG" />
 </h1>
@@ -71,6 +70,11 @@
 </p>
 
 ---
+
+<h3 align="left">👀 Profile Views</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ItsAlexIK&style=flat&label=Visitors&color=0055FF" alt="Profile Views" />
+</p>
 
 > ⭐️ *Thanks for visiting! Drop a star if you like what you see.*  
 > *Built with ❤️ by Alex*
